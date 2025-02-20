@@ -1,17 +1,17 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mridul Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Computer Science Student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridul2493&label=Profile%20views&color=0e75b6&style=flat" alt="mridul2493" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mriduly27625740" target="blank"><img src="https://img.shields.io/twitter/follow/mriduly27625740?logo=twitter&style=for-the-badge" alt="mriduly27625740" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JS**
+- 🌱 I’m currently learning **Data Structures and Algorithms in Java and Web Development**
 
 - 📫 How to reach me **mridulyadav288@gmail.com**
 
-- ⚡ Fun fact **I like to sketch**
+- ⚡ Fun fact **I am CircuitWizard 🧙‍♂️💡 (Master of circuits and magic in electronics)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
