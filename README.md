@@ -1,6 +1,6 @@
 <p align="center"> 
   <a href="https://github.com/mridul2493">
-    <img src="https://imgs.search.brave.com/OQUClWIFtgEyPCo5zvofpzwDEi4BMhocCr9lUCEdMEo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTgz/ODA1ODQzL3Bob3Rv/L2dlbmVyaWMtamF2/YS1jb2RlLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1KQWdv/MHVkdFJ6T1NjRFdS/RHZnSFl3Zms4bTJw/RHUxUjNWSWd6SHpl/TU9jPQ" alt="MasterHead" style="width:500%; height: 300px; object-fit: cover;">
+    <img src="https://imgs.search.brave.com/OQUClWIFtgEyPCo5zvofpzwDEi4BMhocCr9lUCEdMEo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTgz/ODA1ODQzL3Bob3Rv/L2dlbmVyaWMtamF2/YS1jb2RlLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1KQWdv/MHVkdFJ6T1NjRFdS/RHZnSFl3Zms4bTJw/RHUxUjNWSWd6SHpl/TU9jPQ" alt="MasterHead" style="width:300%; height: 300px; object-fit: cover;">
   </a>
 </p>
 
